@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @jessivxi
+- 👀 I’m interested in frontend
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+<!---ola', meu nome é jessica e sou nova no mundo da programação. .
+--->
